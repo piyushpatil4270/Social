@@ -1,0 +1,39 @@
+.leftside{
+    width: 100%;
+    height: calc(100% - 50px);;
+   
+}
+.leftsidecontainer{
+    display: flex;
+   margin-left: 40px;
+   
+    margin-top: 0px;
+    gap: 8px;
+   
+    align-items: center;
+    border-radius: 50px;
+}
+.outcontainer{
+    display: flex;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    align-items: center;
+    padding-bottom: 20px;
+    border-radius: 20px;
+}
+.outcontainer:hover{
+
+    background-color: rgb(234, 234, 234);
+}
+
+.leftsidename{
+    font-family: 'Rubik',sans-serif;
+    margin-top: 25px;
+    cursor: pointer;
+}
+.leftside .outcontainer a{
+    text-decoration: none;
+    color: inherit;
+}

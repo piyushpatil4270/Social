@@ -1,0 +1,71 @@
+.feed{
+    width: 100%;
+    height: calc(100% - 50px);
+    margin-top: 12px;
+}
+.createnewpost{
+    
+    margin-left: 0;
+    background-color: rgb(255, 252, 252);
+    width: 80%;
+    border-radius: 10px;
+    height: fit-content;
+}
+.post{
+    display: flex;
+    gap: 10px;
+    width: 80%;
+    justify-content: space-evenly;
+   
+  
+    border-radius: 7px;
+}
+.profileimg{
+    margin-left: 25px;
+    height: 40px;
+    width: 40px;
+    border: 1px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-top: 10px;
+}
+.description{
+    
+    width: 80%;
+    margin-left: 15px;
+    height: 30px;
+    border: 1.5px solid white;
+    color: rgb(0, 0, 0);
+    border-radius: 5px;
+    background-color: rgb(243, 243, 243);
+    margin-top: 10px;
+}
+.hrtag{
+    width: 95%;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.postoptions{
+    display: flex;
+    justify-content:space-around;
+   
+}
+.optioncontainer{
+    margin-bottom: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.optionname{
+    margin-left: 10px;
+    font-family: "Rubik",sans-serif;
+    font-size: 15px;
+}
+.allposts{
+    margin-top: 50px;
+}
+.postinput{
+    opacity: 0;
+    width: 1px;
+}

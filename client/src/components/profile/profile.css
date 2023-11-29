@@ -1,0 +1,95 @@
+.userprof{
+    width: 100%;
+    padding-top: 40px; 
+    padding-bottom: 40px;
+    background-color: rgb(243, 243, 243);
+    
+}
+
+.userprofilepage{
+width: 80%;
+background-color:white;
+margin-left: 10%;
+margin-right: 10%;
+border-radius: 25px;
+
+}
+.userprofilepicture{
+display: flex;
+
+gap: 20px;
+margin-left: 100px;
+align-items: center;
+}
+.profilepicture{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 50%;
+    
+}
+.username{
+    margin-left: 100px;
+    font-family: "Rubik",sans-serif;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 20px;
+    font-weight: 400;
+}
+.linkedin{
+    display: flex;
+     gap: 10px;
+    align-items: center;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-left: 100px;
+}
+.userprofilename{
+    
+    font-family: "Rubik",sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+
+}
+div.userprof div.userprofilepage div.userdetails div.linkedin a{
+    text-decoration: none;
+}
+.userfriends{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 100px;
+}
+.totalfriends{
+    font-family: "Rubik",sans-serif;
+    margin-left: 1px;
+    margin-right: 5px;
+    font-size: 20px;
+}
+.userposts{
+    
+    margin-left: 70px;
+    margin-top:0;
+    margin-bottom: 20px;
+}
+.totalpostsname{
+    font-family: "Rubik",sans-serif;
+    margin-left: 100px;
+    margin-right: 5px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-bottom: 15px;
+    font-size: 20px;
+}
+.userpost{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-bottom: 15px;
+}
+.userpostimg{
+    height: 150px;
+    width: 150px;
+    border-radius: 20px;
+    object-fit: cover;
+}
