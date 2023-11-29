@@ -1,5 +1,7 @@
 # Social
 
+Be-social is a social media app where users can view posts, follow friends , unfollow them back. Users can also like posts and comment on them.
+
  ![Image 1](https://github.com/piyushpatil4270/Social/blob/master/client/src/images/Screenshot%20(23).png) 
  
  USERS CAN FOLLOW AND UNFOLLOW OTHERS 
